@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/jahnli"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jahnli&show_icons=true&include_all_commits=true&hide=prs&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jahnli"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnli&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/jahnli"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jahnli&show_icons=true&include_all_commits=true&theme=vue&hide=prs&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jahnli"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnli&theme=vue&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
