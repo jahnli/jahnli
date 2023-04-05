@@ -18,8 +18,4 @@ Here are some ideas to get you started:
 | <a href="https://github.com/jahnli"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jahnli&show_icons=true&theme=vue&hide=prs&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jahnli"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnli&theme=vue&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/output/github-snake.svg">
-  <img alt="github-snake" src="/output/github-snake.svg">
-</picture>
+![snake](./assets/github-contribution-grid-snake.svg)
