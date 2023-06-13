@@ -1,6 +1,4 @@
-## Hi there 👋
-
-
+## 👋 Hi there 
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/html-5.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/css-3.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/javascript.svg"></code>&nbsp;
@@ -14,6 +12,12 @@
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/nodejs-icon-alt.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/jenkins.svg"></code>&nbsp;
+
+## ⚡ Fun fact
+
+Learned today, forgotten tomorrow
+
+ 
 
 <!--
 **jahnli/jahnli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
