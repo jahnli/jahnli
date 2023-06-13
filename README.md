@@ -15,7 +15,7 @@
 
 ## ⚡ Fun fact
 
-Learned today, forgotten tomorrow
+Learned today, forgotten tomorrow ...
 
  
 
