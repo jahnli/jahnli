@@ -5,13 +5,13 @@
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/vue.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/vitejs.svg"></code>&nbsp;
-<code><img width="24" height="24" src="https://cdn.svgporn.com/logos/threejs.svg"></code>&nbsp;
-<code><img width="24" height="24" src="https://cdn.svgporn.com/logos/nuxt-icon.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/flutter.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/electron.svg"></code>&nbsp;
+<code><img width="24" height="24" src="https://cdn.svgporn.com/logos/threejs.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/nodejs-icon-alt.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"></code>&nbsp;
 <code><img width="24" height="24" src="https://cdn.svgporn.com/logos/jenkins.svg"></code>&nbsp;
+<code><img width="24" height="24" src="https://cdn.svgporn.com/logos/nuxt-icon.svg"></code>&nbsp;
 
 ## ⚡ Fun fact
 
