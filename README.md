@@ -6,6 +6,7 @@
 <code><img width="40" height="40" src="https://cdn.svgporn.com/logos/vue.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://cdn.svgporn.com/logos/vitejs.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://cdn.svgporn.com/logos/flutter.svg"></code>&nbsp;
+<code><img width="40" height="40" src="https://cdn.svgporn.com/logos/dart"></code>&nbsp;
 <code><img width="40" height="40" src="https://cdn.svgporn.com/logos/electron.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://cdn.svgporn.com/logos/threejs.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://cdn.svgporn.com/logos/nodejs-icon-alt.svg"></code>&nbsp;
