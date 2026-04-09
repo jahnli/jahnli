@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 <code><img width="40" height="40" src="https://cdn.svgporn.com/logos/html-5.svg"></code>&nbsp;
-<code><img width="40" height="40" src="https://cdn.svgporn.com/logos/css-3.svg"></code>&nbsp;
+<code><img width="40" height="40" src="https://cdn.svgporn.com/logos/css.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://cdn.svgporn.com/logos/javascript.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://cdn.svgporn.com/logos/vue.svg"></code>&nbsp;
